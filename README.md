@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/Faijan-Momin">![Faijan-Momin Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/Faijan-Momin">![Faijan-Momin Profile GIF](./assets/profile_presentation_f.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -94,7 +94,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
+      <img align="right" alt="GIF" src="./assets/dance_ascii_new.gif" width="450vw"/>
     </td>
   </tr>
 </table>
