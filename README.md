@@ -25,12 +25,11 @@ ur welcome ;)
     <a href="mailto:faijanmomin18@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
-    ![](https://komarev.com/ghpvc/?username=Faijan-Momin&color=green)
-
   </p>
 </h1>
 
 <hr>
+![Totals Hits](https://komarev.com/ghpvc/?username=Faijan-Momin&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
