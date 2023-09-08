@@ -24,11 +24,11 @@ let DATA = {
 
 /**
  * Here is the temperature
- * of Bogota city
+ * of Pune city
  */
 async function setWeatherInformation() {
   await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=Mumbai&units=metric&appid=${process.env.OPEN_WEATHER_MAP_KEY}`
+      `https://api.openweathermap.org/data/2.5/weather?q=Pune&units=metric&appid=${process.env.OPEN_WEATHER_MAP_KEY}`
     )
     .then(r => r.json())
     .then(r => {

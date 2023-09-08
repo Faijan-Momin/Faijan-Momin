@@ -43,7 +43,7 @@ If you are interested in a guy with a good vibe who loves the knowledge and the 
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
-<!-- Bogota's weather table -->
+<!-- Pune's weather table -->
 
 <h2 align="center"> Pune's Weather ⛅ </h2>
 <table align="center" style="width:50%">
@@ -69,13 +69,13 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **VIT, Pune**
+          🔭 I’m currently studying at <b>VIT, Pune</b>
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source Proyects
         </li>
         <li>
-          🌱 I’m currently learning Django & NestJS; 
+          🌱 I’m currently learning Flutter; 
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Faijan-Momin?tab=repositories)
@@ -105,26 +105,35 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://isocpp.org/"><img alt="CPP" title="CPP" src="./assets/cpp.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
-  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
-  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+  <code><a href="https://dart.dev/"><img alt="Dart" title="Dart" src="./assets/dart.png" height="42"></a></code>
+  <code><a href="https://www.php.net/"><img alt="Php" title="Php" src="./assets/php.png" height="42"></a></code>
+  <code><a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" src="./assets/mysql.png" height="42"></a></code>
+  <code><a href="https://jquery.com/"><img alt="jQuery" title="jQuery" src="./assets/jquery.png" height="42"></a></code>
+  <!-- <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code> -->
+  <!-- <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code> -->
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <!-- <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code> -->
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
+
+  <!-- <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code> -->
+  <!-- <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code> -->
 </p>
 <br>
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
+  <code><a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
+  <code><a href="https://www.android.com/"><img alt="Android" title="Android" src="./assets/android.jpg" height="42"></a></code>
+  <!-- <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code> -->
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
-  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
+  <!-- <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code> -->
+  <!-- <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code> -->
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 </p>
 <br>
@@ -153,10 +162,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Projects section -->
 
-## 📘 My top open source projects
+<!-- ## 📘 My top open source projects -->
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<!-- <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/Faijan-Momin/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Faijan-Momin&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/Faijan-Momin/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Faijan-Momin&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
@@ -166,10 +175,12 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <a href="https://github.com/Faijan-Momin/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Faijan-Momin&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/Faijan-Momin/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=Faijan-Momin&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
-</p>
+</p> -->
 
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
+
+## My Github Repositories
 
 <p align="left">
   <a href="https://github.com/Faijan-Momin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -177,10 +188,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- last activity section -->
 
-## Activity Graph
+<!-- ## Activity Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
+</p> -->
 
 <br>
 
