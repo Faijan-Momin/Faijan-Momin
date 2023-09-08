@@ -30,6 +30,7 @@ ur welcome ;)
 
 <hr>
 ![Totals Hits](https://komarev.com/ghpvc/?username=Faijan-Momin&style=flat&color=orange&label=PROFILE+VIEWS)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Faijan-Momin)
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
@@ -45,7 +46,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Bogota's weather table -->
 
-<h2 align="center"> 🇨🇴 Pune's Weather ⛅ </h2>
+<h2 align="center"> Pune's Weather ⛅ </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
